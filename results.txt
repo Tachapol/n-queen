@@ -1,0 +1,104 @@
+=== Sequential ===
+N = 14
+Total solutions: 365596
+Time: 5.890447 seconds
+N = 14
+Total solutions: 365596
+Time: 5.924722 seconds
+N = 14
+Total solutions: 365596
+Time: 5.891145 seconds
+N = 14
+Total solutions: 365596
+Time: 5.941083 seconds
+N = 14
+Total solutions: 365596
+Time: 5.910894 seconds
+
+=== Parallel: 1 rank, 1 thread ===
+N = 14
+Total solutions: 365596
+Time: 2.623692 seconds
+MPI ranks: 1, OMP threads: 1
+N = 14
+Total solutions: 365596
+Time: 2.619523 seconds
+MPI ranks: 1, OMP threads: 1
+N = 14
+Total solutions: 365596
+Time: 2.621042 seconds
+MPI ranks: 1, OMP threads: 1
+N = 14
+Total solutions: 365596
+Time: 2.620924 seconds
+MPI ranks: 1, OMP threads: 1
+N = 14
+Total solutions: 365596
+Time: 2.619231 seconds
+MPI ranks: 1, OMP threads: 1
+
+=== Parallel: 1 rank, 2 threads ===
+N = 14
+Total solutions: 365596
+Time: 1.356837 seconds
+MPI ranks: 1, OMP threads: 2
+N = 14
+Total solutions: 365596
+Time: 1.356577 seconds
+MPI ranks: 1, OMP threads: 2
+N = 14
+Total solutions: 365596
+Time: 1.423657 seconds
+MPI ranks: 1, OMP threads: 2
+N = 14
+Total solutions: 365596
+Time: 1.363947 seconds
+MPI ranks: 1, OMP threads: 2
+N = 14
+Total solutions: 365596
+Time: 1.359756 seconds
+MPI ranks: 1, OMP threads: 2
+
+=== Parallel: 2 ranks, 2 threads (4 total) ===
+N = 14
+Total solutions: 365596
+Time: 0.794798 seconds
+MPI ranks: 2, OMP threads: 2
+N = 14
+Total solutions: 365596
+Time: 0.793690 seconds
+MPI ranks: 2, OMP threads: 2
+N = 14
+Total solutions: 365596
+Time: 0.792996 seconds
+MPI ranks: 2, OMP threads: 2
+N = 14
+Total solutions: 365596
+Time: 0.802962 seconds
+MPI ranks: 2, OMP threads: 2
+N = 14
+Total solutions: 365596
+Time: 0.794123 seconds
+MPI ranks: 2, OMP threads: 2
+
+=== Parallel: 4 ranks, 2 threads (8 total) ===
+N = 14
+Total solutions: 365596
+Time: 0.621983 seconds
+MPI ranks: 4, OMP threads: 2
+N = 14
+Total solutions: 365596
+Time: 0.616664 seconds
+MPI ranks: 4, OMP threads: 2
+N = 14
+Total solutions: 365596
+Time: 0.636122 seconds
+MPI ranks: 4, OMP threads: 2
+N = 14
+Total solutions: 365596
+Time: 0.600519 seconds
+MPI ranks: 4, OMP threads: 2
+N = 14
+Total solutions: 365596
+Time: 0.601064 seconds
+MPI ranks: 4, OMP threads: 2
